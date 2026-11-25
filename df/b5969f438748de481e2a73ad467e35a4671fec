@@ -1,0 +1,23 @@
+extensions/caveman.ts
+  s_5fc98fcdbf9cae::t_b9736dbf91cce4 21,353,359,373,386,389-390,393-394,396-410,412-417
+extensions/rows.ts
+  s_5fc98fcdbf9cae::t_1c9fbe246073d7 1-149
+scripts/test-config-menu.mjs
+  s_5fc98fcdbf9cae::t_cf6726211afeb1 1-102
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dfb5969f438748de481e2a73ad467e35a4671fec",
+  "prompts": {},
+  "sessions": {
+    "s_5fc98fcdbf9cae": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4e4be73c-3dd0-4773-90dd-a694b9216c47",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "gtkatakura <gt.katakura@gmail.com>"
+    }
+  }
+}
